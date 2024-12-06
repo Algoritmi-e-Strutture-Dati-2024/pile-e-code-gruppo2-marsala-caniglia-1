@@ -32,7 +32,7 @@ class Pila {
       }
 
     bool isEmpty() const{
-      return lung==0;
+      return lista.lung==0;
     }
 
     int size() const{
